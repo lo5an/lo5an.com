@@ -7,11 +7,14 @@ tagline: Supporting tagline
     
 ## Posts
 
-<ul class="posts">
+<div class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <section>
+		<h1><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h1>
+		{{ post.content }}
+    </section>
   {% endfor %}
-</ul>
+</div>
 
 
 
