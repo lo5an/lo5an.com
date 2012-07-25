@@ -12,11 +12,11 @@ pygments: true
 title : Barbarous Names 
 tagline: meaningless words 
 author :
-name : Logan Cox
-email : lo5an@yahoo.com
-github : zlmc 
-twitter : lo5an
-feedburner : feedname
+  name : Logan Cox
+  email : lo5an@yahoo.com
+  github : zlmc 
+  twitter : lo5an
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
