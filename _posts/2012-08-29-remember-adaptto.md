@@ -16,7 +16,7 @@ String path = currentNode.getProperty("path");
 which throws an exception if `path` does not exist. I tend to do it without thinking because `Resource` doesn't have a `getProperty()` method or equivalent. But `Resource` does have `adaptTo` and you can do 
 
 ```
-resProps = resource.adaptTo(ValueMap.class) 
+ValueMap resProps = resource.adaptTo(ValueMap.class) 
 ```
 
 and get a ValueMap of the properties of the resource. After which you can call
