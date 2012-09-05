@@ -1,7 +1,7 @@
 ---
 layout: post
 tags : [CQ]
-title: Remember to Use .adapTo()
+title: Remember to Use .adaptTo()
 ---
 {% include JB/setup %}
 
@@ -9,19 +9,19 @@ I keep kicking myself for not learning the lesson. I'm writing this down primari
 
 I keep using code like 
 
-```java
+```
 String path = currentNode.getProperty("path"); 
 ```
 
 which throws an exception if `path` does not exist. I tend to do it without thinking because `Resource` doesn't have a `getProperty()` method or equivalent. But `Resource` does have `adaptTo` and you can do 
 
-```java
+```
 resProps = resource.adaptTo(ValueMap.class) 
 ```
 
 and get a ValueMap of the properties of the resource. After which you can call
 
-```java
+```
 String path = resProps.get("path", ""); 
 ```
 
