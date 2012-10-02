@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My WCMMODE Scripts 
+title: My WCMMode Scripts 
 tags : [CQ, js]
 ---
 {% include JB/setup %}
