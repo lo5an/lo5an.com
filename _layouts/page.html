@@ -1,5 +1,17 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/twitter/page.html %}
+
+<header class="page-header">
+  <h1>{{ page.title }}</h1>
+</header>
+
+<div class="container-fluid">
+  <div class="row-fluid">
+    <div class="span8">
+
+      {{ content }}
+
+    </div>
+  </div>
+</div>
