@@ -7,7 +7,9 @@ Hi, my name is Logan.
 
 I'm a programmer. Right now, my main professional focus is on web communication and content management.
 
-I currently work at the University of Oklahoma where I write CMS components for Adobe CQ that support as much semantic content modleing as I can squeeze in. 
+I currently work at the University of Oklahoma where I write CMS components for Adobe CQ, and I try to squeeze in as much semantic content modeling as possible. 
+
+
 
 
 
