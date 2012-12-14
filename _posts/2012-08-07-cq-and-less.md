@@ -3,7 +3,6 @@ layout: post
 title: CQ 5.5 has LESS built in 
 tags : [CQ, css]
 ---
-{% include JB/setup %}
 
 
 I was poking around the CQ 5.5 docs and I found something cool in the [release notes](http://dev.day.com/docs/en/cq/current/release_notes/overview.html) that I'd missed, 
