@@ -4,7 +4,7 @@ title: lo5an.com
 ---
 <div class="container-fluid">
   <div class="row-fluid">
-    <div class="span8">
+    <div class="span12">
 
 
       <h1>Logan Cox</h1>
