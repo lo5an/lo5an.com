@@ -1,0 +1,10 @@
+---
+layout: none
+permalink: .htaccess
+---
+
+ErrorDocument 404 /404/
+
+
+Redirect /+ http://plus.google.com/108169277861806629942/
+Redirect /fb https://www.facebook.com/logan.cox.585
