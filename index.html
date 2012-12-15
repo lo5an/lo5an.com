@@ -12,15 +12,12 @@ title: lo5an.com
       <h3> Web geek, word  nerd, office supply enthusiast.</h3>
 </header>
 
-<section>
+<section id="about">
   <p>Howdy. My name is Logan.<p>
-  
-  <p>I’m a programmer. Right now, my main professional focus is on web communication and content management.</p>
-
-  
+  <p>I’m a programmer. My main professional focus is on communication and content management.</p>
 </section>
 
-<section>
+<section id="contact">
   <h1>Get in touch</h1>
   <p><i class="icon-envelope icon-large"></i> <a href="mailto:lo5an@lo5an.com">Email</a> Old school social. </a></p>
   <p><i class="icon-twitter  icon-large"></i> <a href="http://twitter.com/lo5an">Twitter</a> 140 characters and a whale.</p>
@@ -30,7 +27,7 @@ title: lo5an.com
 </section>
 
 
-<section>
+<section id="posts">
   <h1>I've been thinking about</h1>
     {% for post in site.posts %}
     <p> <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date_to_string }}</span>)</p>
@@ -38,19 +35,15 @@ title: lo5an.com
 </section>
 
 
-<section>
+<section id="colophon">
 <h1>Colophon</h1>
-
-<p>This site is maintained primarily in <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a> and magiced into a website by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
-
+<p>This site is maintained primarily in <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a> and magiced into a website by <a href="http://jekyllrb.com/">Jekyll</a>. I use <a href="http://dreamhost.com/">DreamHost</a> for web hosting.</p>
 <p>It uses <a href="http://littlesparkvt.com/flatstrap/index.html">Flatstrap</a>, a variant of the <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> web framework and the <a href="http://fortawesome.github.com/Font-Awesome/">Font Awesome</a> icon font.</p>
-
-
-
 </section>
 
 
-
+<footer>
+</footer>
 
 
 
