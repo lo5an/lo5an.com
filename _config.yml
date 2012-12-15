@@ -4,6 +4,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 
 url: http://lo5an.com
-permalink: pretty
+permalink:  pretty
+permalink: /:year/:title/ 
 pygments: true
 
