@@ -223,7 +223,7 @@ textarea {
 
 body {
   margin: 0;
-  font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 20px;
   line-height: 26px;
   color: #333333;
@@ -721,7 +721,7 @@ h4,
 h5,
 h6 {
   margin: 13px 0;
-  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: normal;
   line-height: 26px;
   color: inherit;
@@ -1045,7 +1045,7 @@ input,
 button,
 select,
 textarea {
-  font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 label {
