@@ -249,6 +249,7 @@ This is cookbook jQuery for a default options object.
 By convention, Bootstrap wires up the object constructor `Foo` to `$.fn.foo.Foo`.  This gives us a handle for calling this constructor that can be used from outside the closure in which all of the code for carousel is wrapped. 
 
     $.fn.carousel.Constructor = Carousel
-	
+
+Man. I guess I wasn't kidding around about "exhausting". Check back in a bit to see if I get around to writing up part 2. 
 	
 	
