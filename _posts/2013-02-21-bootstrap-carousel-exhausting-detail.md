@@ -6,7 +6,7 @@ tags:  [bootstrap, js, jQuery]
 
 I've been trying to level up my JavaScript chops lately. At the same time, we've been using [Twitter Bootstrap](http://twitter.github.com/bootstrap/) quite a bit at work and I'm likely to be writing a jQuery extension or two in the near future. As a consequence, I decided to do a close reading of some of the Bootstrap JavaScript source. 
 
-This writeup covers the traditional jQuery stuff and in part 2. I plan to eventual circle back and write up the Carousel Data API. 
+This writeup covers the traditional jQuery stuff. In part 2, I plan to eventual circle back and write up the Carousel Data API. 
 
 Here Goes:
 
