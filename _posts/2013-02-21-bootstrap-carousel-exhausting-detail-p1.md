@@ -47,7 +47,7 @@ It relies on JavaScript's automatic semicolon insertion. It's pretty common in t
 
 `this.$element = $(element)` gives us a jQuery object for the element we passed to the constructor. Prefixing variable names with `$` to indicate that they are jQuery objects is a common idiom that the Bootstrap code follows. (Oppa Hungarian Style!)
 
-`this.options.slide && this.slide(this.options.slide)` relies on lazy evaluation of the JavaScript conjuction so that `this.slide(this.options.slide)` only gets called if `this.soption.slide` exists and is truthy. This is a pretty common null-checking idiom in JavaScript.
+`this.options.slide && this.slide(this.options.slide)` relies on short-circut evaluation so that `this.slide(this.options.slide)` only gets called if `this.soption.slide` exists and is truthy. This is a pretty common null-checking idiom in JavaScript.
 
 The constructor also wires up the pause behavior of the Carousel. `$.proxy(this.pause, this` and  `$.proxy(this.cycle, this)` make sure that the `pause` and `cycle` get called in the context of the particular Carousel created by the constructor (`this`). See the jQuery docs for [$.proxy()](http://api.jquery.com/jQuery.proxy/).
 
