@@ -3,7 +3,6 @@ layout: post
 title: Stupid CSS Tricks 
 tags : [CQ, css]
 ---
-{% include JB/setup %}
 
 I was playing with some CSS today and it turns out that this works:
 

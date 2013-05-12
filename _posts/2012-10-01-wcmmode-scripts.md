@@ -3,7 +3,6 @@ layout: post
 title: My WCMMode Scripts 
 tags : [CQ, js]
 ---
-{% include JB/setup %}
 
 
 I've written a couple of scripts to make WCMMODE a little more friendly. First, Here's a simple bookmarklet that toggles between the content finder with no params and the normal url with `wcmmode=DISABLED` ( [Toggle CF][1] ). 

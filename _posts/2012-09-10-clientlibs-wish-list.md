@@ -3,7 +3,6 @@ layout: post
 tags : [CQ]
 title: ClientLibs Wish List
 ---
-{% include JB/setup %}
 
 I've been working on some projects where we're trying to use CQ's client library stuff to manage JavaScript and CSS. We've ruled out using the client side library loader provided by `<cq:includeClientLib>` becaue it just doesn't provide the level of control that we want, but we've found the server side part to be a decent way to organize things. 
 

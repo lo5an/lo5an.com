@@ -3,7 +3,6 @@ layout: post
 tags : [CQ]
 title: Remember to Use .adaptTo()
 ---
-{% include JB/setup %}
 
 I keep kicking myself for not learning the lesson. I'm writing this down primarily in hopes that I'll remember it BEFORE I start peppering my code with null checks and try blocks. 
 
