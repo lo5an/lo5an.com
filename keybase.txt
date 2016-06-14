@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/lo5an
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lo5an.com
+  * I am lo5an (https://keybase.io/lo5an) on keybase.
+  * I have a public key with fingerprint 0D39 1707 EE6C A97C B8AF  6831 4899 5631 7AD4 E3F8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a98f6848935c9153a90ca61df921806f1b72d47128058b91f4c2deb58f5bec290a",
+            "fingerprint": "0d391707ee6ca97cb8af6831489956317ad4e3f8",
+            "host": "keybase.io",
+            "key_id": "489956317ad4e3f8",
+            "kid": "0101a98f6848935c9153a90ca61df921806f1b72d47128058b91f4c2deb58f5bec290a",
+            "uid": "a447d3a96275b86fe6cbda3ba85a8b00",
+            "username": "lo5an"
+        },
+        "revoke": {
+            "sig_ids": [
+                "038bb2617d98e42081f190d08af2e681731d0e2e5955d7e18f57607ecbb6db840f"
+            ]
+        },
+        "service": {
+            "hostname": "lo5an.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1464974328,
+    "expire_in": 157680000,
+    "prev": "a219e76baa3ad0cd15d7c397069af5b0f6fae5f99f9460d7e2c1634cf0aab398",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMJjAnicrZJbaFRHHMY3ViNZVKzgg4RWHZIH20RnzmUuW1ARpEgDMclDBJVlbice
+su7Z7DmJUVmIpvjiairEimIClibSCloFjcb7JYjEu02MYokPQkqlQmlriyI6J7TQ
+Bx87L4cZvv/3/c43c23mB4lkyeqJ5NLRJWMLSoYvv2hNNNad/XsrEIHaDFJbQbOe
+/OiM0mGUbvYVSAGIIOKMepg6lNmuZMi1OYOSY6Q8ZiEKsYcEsZRDkEWhSwVDniMt
+pYVLPVdoaTHIQRXw/GyTzufyfjaKbZXNEIFEayw5I1JQbiJsZEKYi21EuHK07VEz
+uCEI4wkDJ3ioF/uBOTOb9CTee/T/M3frpB13HKKMAbaIKyj2DLZQ3BacupwKCGNh
+qPNZvlEbdSZweRYUqkBetwXNOi419JsMcQhSawG0qRAWRkQxqh0LUuQhBhU0FVga
+U0RspKC2tMtcVxGNDA7BpiopBFaCOtAD6423iWvz5aR5XNF/oxfLYKMhyuWDKJBB
+xhxviKJcmIqRos25WLdJi/Q/DmnhZ5W5HTPRpvOhH2RBChmljPzYEjnYYcSxLVoF
+dHvOz+u0HysMFIVmxTm6Le7IQkwTLDi3uYJSIUMvbUYgZtw0Cj3sce16jHnMwdD8
+mSURth3pQc6FzeK7C3VLNogjDSdvMp6mtiyPWvMaFK5cWjc1UZJMlE6bEj/bRLJs
+9r+PeVnF9Ddz99ayRRf+ejWjsudqWZoc6di94/zob69vksbkgLvi52P7K4oXV1XX
+fVG2bf7gwn0nCsND/bN+uXE311hWUIf29qqVlYdrwO/zjh47+xUbLe04NWd5Z2/t
+T8VZ8vSCq9/2f7O/2FL3VO45tezNR9tPn/t+5Mvx9eO44Y8PBx+NVBT6yq93f7ev
+r+vG8y0HGjrkrT7ds7D5UPlDPPh22+z6V5yX/tg1kilNnvz0Sar+z4kfZv768YPM
+mT09O1+u/eTzaamx6ntdN/2oxi3eOd4OOsMXuVWb1FBNdf2Z1K7Kr4/e3/ls/p3a
++17H7XvFx897uyempPsH1PDBgRmH1yy9O9R9sddNtH/2Dlb+XJA=
+=s34N
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lo5an
+
+==================================================================

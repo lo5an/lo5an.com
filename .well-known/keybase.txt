@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/lo5an
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lo5an.com
+  * I am lo5an (https://keybase.io/lo5an) on keybase.
+  * I have a public key with fingerprint 0D39 1707 EE6C A97C B8AF  6831 4899 5631 7AD4 E3F8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a98f6848935c9153a90ca61df921806f1b72d47128058b91f4c2deb58f5bec290a",
+            "fingerprint": "0d391707ee6ca97cb8af6831489956317ad4e3f8",
+            "host": "keybase.io",
+            "key_id": "489956317ad4e3f8",
+            "kid": "0101a98f6848935c9153a90ca61df921806f1b72d47128058b91f4c2deb58f5bec290a",
+            "uid": "a447d3a96275b86fe6cbda3ba85a8b00",
+            "username": "lo5an"
+        },
+        "service": {
+            "hostname": "lo5an.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1450147901,
+    "expire_in": 157680000,
+    "prev": "f148a7ef3c39eec203681e8e93b50d99c815c10a6a05e97d1bd3c507784b4c42",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIfAnicrVJbSBVBGD6mFVmBdCizKGoxMTrazF5nD5xMosIoCiKJUk8zu7O6qLun
+PespCyMiKCqMKF8yu0n3KxhRkWkmhCmKQV6yyJQSowsYlERUs1LQQ4/NyzD/fLf/
+52+eGu9LjFs3lLika3HPvLjWh0fKfLn27tBOjth6ORfcyRXTsYuW6DTqhotNnQty
+AAKIVWTISESqIGkqlASsAg3LUDdUHiIgG5AovC4qkEdAQkSFhqjxOiUSMiRCNV4F
+mAtwhmkVUifimJbryeqCChWgUCprWFU0gjCzECAzUSVZgArWRSoYiBGL7KjHYOEI
+jtJM02Y19giPxfsH/j/nLhuTw6Ko6ExA5hWJINlgsYmOBYKRhBEBwANGqWPhUsrQ
+JbaELa4iwLFSzNSoN1Wvjb+/MzW7lLEiju3aml3CykWuGwl6LLc84sG2URL+LRAm
+pqWzATJCjDpR07a4IGRIzTU9RShKAIqKCmCAo9sjpkPDpoeQFBkBdjwbGmOSBhsw
+VqghaIJKWYtAkBGkiKoCkYCuqhqCkgYBljGQqKrokOiCJgFFQSIRNZHnvJa2WjbT
+ZlYuLmSaUbPQwm6ZQ7mKpsa8BF9com/C+HHeZvkSJyX92bdF9RN/0rNnPg1Nb01b
+kFrcWTM5lty8qz/pZjo3Mza4P9h0IL+l+sPuBH+I2ztl4ubHGfcm83VyQ8/nG+f2
+vLvdaH3Li12ItTTXdevrgy1LL6cMzt9wsnHO9WUPfmaR7LZpGxPO9+MbIx0hc7jo
+YyWfPbfwdGpvDoqvLzh86m1a7vEvoZQ3y5NK/NdOZM3Ky7iav3DF1d7RVQ54dan9
+/Yya8uTS1rT3VdHp98etvDfkuxO5UnYortupeBq4M+fS6hdb6u5uyq2+eGvfnieP
+Zr9u2/yjo72gKz697+DXnO99/u/PMkZrU/0DgfypRzvNqh0Zq66NrLkVWkuynw83
+LBqovExq8bGXWV91/y8MuT0Y
+=e6MD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lo5an
+
+==================================================================

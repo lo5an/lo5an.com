@@ -1,10 +1,14 @@
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
-
-auto: true
-
+highlighter: pygments
 url: http://lo5an.com
 permalink:  pretty
-permalink: /:year/:title/ 
-pygments: true
+permalink: /:year/:title/
+
+# kebase.io files
+include: [".well-known"]
+
+
+# Build settings
+markdown: kramdown
 
